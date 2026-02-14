@@ -3,4 +3,6 @@ pandas>=2.2,<3.0
 matplotlib>=3.8
 seaborn>=0.13
 spotipy>=2.25
+tqdm>=4.66.0
+
 
