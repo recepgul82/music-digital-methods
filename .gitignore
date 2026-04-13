@@ -1,5 +1,6 @@
 # Virtual environments
 venv/
+venv_transcription/
 .env/
 
 # Python
@@ -11,5 +12,6 @@ __pycache__/
 
 # OS
 .DS_Store
-
+weeks/week08/demucs_output
+weeks/week09
 data/dataset
